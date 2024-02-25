@@ -70,6 +70,6 @@ p {
 strong {
   color: #f65282;
 }
-.href {
-  color: rgb(100, 100, 240);
+a {
+  color: blue;
 }
