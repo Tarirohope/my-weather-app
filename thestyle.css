@@ -1,19 +1,20 @@
 html {
   display: block;
 }
+
 header {
   border-bottom: 1px solid #f9f7fe;
   padding-bottom: 30px;
   display: block;
 }
 .weather-app {
-  background: white;
   max-width: 600px;
   margin: 60px auto;
   padding: 30px;
   border-radius: 10px;
-  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   font-family: "Roboto", sans-serif;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  background-color: rgb(14, 245, 233);
 }
 .search-input {
   background-color: #f9f7fe;
